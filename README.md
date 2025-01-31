@@ -14,7 +14,7 @@ This app is designed to **clean and optimize your computer**, ensuring it runs s
 
 **Game-Specific Profiles**: Custom optimizations for Fortnite, Valorant, Warzone, and CS2 to reduce lag and enhance gameplay.
 
-**How to Use**
+# **How to Use**
 Upon opening the app, enter the following login credentials:
 
 **Username**: Admin1
