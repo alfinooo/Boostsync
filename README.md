@@ -7,16 +7,14 @@ After two years of dedicated development and five iterative versions, I’m prou
 
 This app is designed to clean and optimize your computer, ensuring it runs smoother and faster. Whether you’re a casual user or a hardcore gamer, it has everything you need to boost performance.
 
-Key Features:
-
+Key Features
 Cleaning Tools: Remove unnecessary files and free up space.
 
 Optimization Options: Improve system performance with optional tweaks.
 
 Game-Specific Profiles: Custom optimizations for Fortnite, Valorant, Warzone, and CS2 to reduce lag and enhance gameplay.
 
-How to Use:
-
+How to Use
 Upon opening the app, enter the following login credentials:
 
 Username: Admin1
