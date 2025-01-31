@@ -1,7 +1,7 @@
 # Boostsync
 A PC optimization app with cleaning tools and custom profiles for Fortnite, Valorant, Warzone, and CS2.
 
-Welcome to the PC Optimization App!
+**Welcome to the PC Optimization App!**
 
 After two years of dedicated development and five iterative versions, I’m proud to present the final version of this app! It’s been a long journey, filled with learning and improvements, and I’m excited to share this powerful tool with you.
 
