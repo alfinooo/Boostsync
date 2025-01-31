@@ -23,4 +23,6 @@ Upon opening the app, enter the following login credentials:
 
 Explore the tools and customize optimizations based on your needs.
 
+**WARNING** YOU HAVE TO RUN THE .EXE WITH THE FOLDER /Assets.
+
 This app is your **all-in-one** solution for a faster, smoother PC experience. Thank you for checking it out, and I hope it helps you get the most out of your system!
